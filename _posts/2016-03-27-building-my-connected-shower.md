@@ -15,6 +15,8 @@ I recently moved into a new home with my fiancée. Of course one of the first th
 
 So I came up with the idea of having a connected smart shower. Doing so would enable me to read the headlines and get this data every morning but save me time as I could do this while showering. I wanted something that wouldn't be too distracting, something that would seamlessly integrate with the existing fixtures. But also something that I could easily read the information I wanted, when I wanted it.
 
+![The Shower]({{ site.url }}/images/shower_pic4.jpg){: .image-pull-right}
+
 ## Brainstorming
 So I started brainstorming some ideas with my fiancée for how to do this. One of our favorite features of the new house was that the shower was nice and open. Instantly we came up with the idea of using a projector to beam the information I wanted. We also thought about having a TV screen mounted somewhere, but it seemed expensive and dangerous with the moisture.
 
