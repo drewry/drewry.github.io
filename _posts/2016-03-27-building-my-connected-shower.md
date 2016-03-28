@@ -46,7 +46,7 @@ The finished mounting with some cable management. This might look beter than it 
 My first test of the interface just outputting basic messages to see how it looks on the shower.
 
 ## Conclusion
-I still have some work ahead of me. I have neglected actually connecting my interface to the API endpoints I need for the data, something I will be doing over next weekend. But I feel accomplished as the initial setup is done. Now I just need to experiment with the right timing for the interface loop and maybe working with a voice interface in the future to toggle pausing, expanding information on articles, etc.
+I still have some work ahead of me. I have neglected connecting my interface to the API endpoints I need for the data, something I will be doing over next weekend. But I feel accomplished as the initial setup is done. Now I just need to experiment with the right timing for the interface loop and maybe working with a voice interface in the future to toggle pausing, expanding information on articles, etc.
 
 Total cost of the project is well under $200. Here's the breakdown:
 
